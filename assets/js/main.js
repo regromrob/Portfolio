@@ -399,3 +399,12 @@
 					});
 
 })(jQuery);
+
+//handling the form
+
+// let form = document.getElementById('submit')
+
+// form.addEventListener('submit',(e)=>{
+
+	
+// })
